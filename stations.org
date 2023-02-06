@@ -1,0 +1,47 @@
+#+title: Stations
+* 029.127.500 Hz
+** <2022-10-10 Mon> 21:12:09
+*** Info
+USB, 40k filter
+Birds chirping?
+
+* 131.175.100 Hz
+** <2022-10-17 Mon> 23:49:14
+*** Info
+People speaking english, AM modulation
+Airport?
+5000 feet
+* 145.338.000 Hz
+** <2022-10-17 Mon> 23:34:04
+*** Info
+People telling the time, saying good afternoon
+One user was from Uruguay
+One user from Chile
+One user from Puerto Rico
+Carmen
+Dia mundial de las catedrales
+Horario UTC 21:37
+* 430.200.000 Hz
+** <2022-10-10 Mon> 20:40:07
+*** Info
+Sounds quiet, a lot of noise.
+Talks about free time
+
+* 430.350.000 Hz
+** <2022-10-10 Mon> 19:58:48
+*** Info
+HAM equipment troubleshooting, reception issues, online scams and credit card safety
+
+* 432.633.300 Hz
+** <2022-10-10 Mon> 20:49:28
+*** Info
+Strong signal, beeps frequently, digital signal?
+
+* 437.776.000 Hz
+** <2022-10-12 Wed> 13:29:55
+*** Info
+People talking, testing.
+* 438.950.000 Hz
+** <2022-10-11 Tue> 21:05:48
+*** Info
+Weak signal, different people talking.
